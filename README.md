@@ -1,16 +1,7 @@
-# Forest Theme
+# VSCode Forest Color Theme
 
-## This is the README for your extension "pastel-theme"
+## A quiet, calm, forest-inspired VS code theme with muted colors.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Light Theme Screenshot
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![enter image description here](https://i.imgur.com/QVUCJq1.png)
