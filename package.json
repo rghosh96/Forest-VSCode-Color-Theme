@@ -1,0 +1,33 @@
+{
+    "name": "pastel-forest-theme",
+    "displayName": "Pastel Forest Theme",
+    "description": "a calm, quiet, forest environment with muted colors for your vs code!",
+    "author": {
+        "name": "shira"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "pastel",
+        "forest",
+        "woods",
+        "green",
+        "calm",
+        "quiet",
+        "Light Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "pastel forest",
+                "uiTheme": "vs",
+                "path": "./themes/pastel paradise-color-theme.json"
+            }
+        ]
+    }
+}
