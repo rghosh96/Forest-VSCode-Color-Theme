@@ -24,9 +24,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "pastel forest",
+                "label": "pastel forest light",
                 "uiTheme": "vs",
                 "path": "./themes/forest-light.json"
+            },
+            {
+                "label": "pastel forest bright",
+                "uiTheme": "vs",
+                "path": "./themes/forest-bright.json"
             }
         ]
     }
