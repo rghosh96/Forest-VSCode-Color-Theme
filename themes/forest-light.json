@@ -1,11 +1,12 @@
 {
-	"name": "pastel forest",
+	"name": "pastel forest light",
 	"type": "light",
 	"colors": {
 		"editor.background": "#d6e4dc",
 		"statusBar.background": "#92a28d",
 		"editor.foreground": "#333333",
 		"editorIndentGuide.background": "#404040",
+		"scrollbarSlider.background": "#6b8063",
 		"editorRuler.foreground": "#333333",
 		"sideBarTitle.foreground": "#667d71",
 		"sideBar.background": "#b9cac1",
