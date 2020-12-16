@@ -30,7 +30,7 @@
 		"input.background": "#fff1f1",
 		"badge.background": "#6b8063",
 		"badge.foreground": "#fff1f1",
-		"pickerGroup.foreground": "#374133",
+		"pickerGroup.foreground": "#374133"
 	},
 	"tokenColors": [
 		{
