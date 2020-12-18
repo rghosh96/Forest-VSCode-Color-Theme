@@ -19,7 +19,12 @@
         "green",
         "calm",
         "quiet",
-        "Light Theme"
+        "Light Theme",
+        "light",
+        "theme",
+        "bright",
+        "muted",
+        "color"
     ],
     "contributes": {
         "themes": [

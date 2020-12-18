@@ -6,8 +6,8 @@ A pastel VS code color theme with muted colors. Light and dark themes available!
 
 ### Light Theme
 
-![enter image description here](https://i.imgur.com/QVUCJq1.png)
+![enter image description here](https://i.imgur.com/22YQwvd.png)
 
 ### Bright Theme
 
-![enter image description here](https://i.imgur.com/16Y27od.png)
+![enter image description here](https://i.imgur.com/Kgqy307.png)
