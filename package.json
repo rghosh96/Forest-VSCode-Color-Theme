@@ -2,6 +2,7 @@
     "name": "pastel-forest-theme",
     "displayName": "Pastel Forest Theme",
     "description": "a calm, quiet, forest environment with muted colors for your vs code!",
+    "publisher": "Shira",
     "author": {
         "name": "shira"
     },
