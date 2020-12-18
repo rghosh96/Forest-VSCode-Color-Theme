@@ -9,6 +9,15 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rghosh96/Forest-VSCode-Color-Theme"
+    },
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#d6e4dc",
+        "theme": "light"
+    },
     "categories": [
         "Themes"
     ],
